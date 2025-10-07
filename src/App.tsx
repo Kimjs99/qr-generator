@@ -242,7 +242,7 @@ function App() {
             </div>
 
             <div className="space-y-3">
-              {urls.map((item, index) => (
+              {urls.map((item) => (
                 <div key={item.id} className="flex items-center space-x-3">
                   <div className="flex-1">
                     <input
