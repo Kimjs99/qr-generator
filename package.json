@@ -8,7 +8,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@tailwindcss/postcss": "^4.1.14",
     "lucide-react": "^0.263.1",
     "qrcode": "^1.5.3",
     "react": "^18.2.0",
